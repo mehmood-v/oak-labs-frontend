@@ -1,0 +1,80 @@
+[
+  {
+    "name": "OAK's Lab",
+    "startupId": 1,
+    "phases": [
+      {
+        "name": "Foundation",
+        "phaseId": 1,
+        "completed": false,
+        "locked": true,
+        "tasks": [
+          {
+            "name": "Setup virtual office",
+            "startDate": 1643756400000,
+            "completed": true,
+            "taskId": 1
+          },
+          {
+            "name": "Setup mission & vision",
+            "startDate": 1643756400000,
+            "completed": false,
+            "taskId": 2
+          },
+          {
+            "name": "Select business name",
+            "startDate": 1643756400000,
+            "completed": false,
+            "taskId": 3
+          },
+          {
+            "name": "Buy domains",
+            "startDate": 1643756400000,
+            "completed": false,
+            "taskId": 4
+          }
+        ]
+      },
+      {
+        "name": "Discovery",
+        "phaseId": 2,
+        "completed": false,
+        "locked": true,
+        "tasks": [
+          {
+            "name": "Create roadmap",
+            "startDate": 1643756400000,
+            "completed": false,
+            "taskId": 1
+          },
+          {
+            "name": "Competitor analysis",
+            "startDate": 1643756400000,
+            "completed": false,
+            "taskId": 2
+          }
+        ]
+      },
+      {
+        "name": "Delivery",
+        "phaseId": 3,
+        "completed": false,
+        "locked": true,
+        "tasks": [
+          {
+            "name": "Release marketing website",
+            "startDate": 1643756400000,
+            "completed": false,
+            "taskId": 1
+          },
+          {
+            "name": "Release MVP",
+            "startDate": 1643756400000,
+            "completed": false,
+            "taskId": 2
+          }
+        ]
+      }
+    ]
+  }
+]
